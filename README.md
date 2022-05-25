@@ -42,4 +42,4 @@
 ```
 
 ## 数据来源：
-[百度地图行政区划adcode映射表【更新至21年04月】](https://mapopen-pub-webserviceapi.bj.bcebos.com/geocoding/Township_Area_A_202104.xlsx)。
+[百度地图行政区划adcode映射表【更新至21年04月】](https://mapopen-pub-webserviceapi.bj.bcebos.com/geocoding/Township_Area_A_202104.xlsx)
